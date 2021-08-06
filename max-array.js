@@ -14,3 +14,4 @@ function maxArray(numbers) {
 var arrayNumbers = [10, 21, 24, 5, 19];
 var result = maxArray(arrayNumbers);
 console.log("Maximum value is: ", result);
+

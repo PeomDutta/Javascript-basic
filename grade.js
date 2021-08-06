@@ -36,3 +36,4 @@ function grade(marks) {
 var myMarks = 87;
 console.log("My mark is: ");
 var myGrade = grade(myMarks);
+

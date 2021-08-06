@@ -34,3 +34,4 @@ var a = 12;
 var b = 21;
 console.log("Normal answer: ", a, b);
 swapDestruction(a, b);
+

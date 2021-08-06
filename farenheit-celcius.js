@@ -10,3 +10,4 @@ function celcius(farenheit) {
 var f = 102.2;
 var c = celcius(f);
 console.log(c);
+

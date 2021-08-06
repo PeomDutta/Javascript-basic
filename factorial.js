@@ -14,3 +14,4 @@ function factorial(n) {
 
 var result = factorial(5);
 console.log("The result is: ", result);
+

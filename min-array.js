@@ -14,3 +14,4 @@ function minArray(numbers) {
 var arrayNumbers = [10, 21, 4, 13, 19];
 var result = minArray(arrayNumbers);
 console.log("Minimum value is: ", result);
+

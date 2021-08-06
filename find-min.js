@@ -18,3 +18,4 @@ var b = 21;
 var c = 15;
 var result = max(a, b, c);
 console.log("The smallest number is: ", result);
+

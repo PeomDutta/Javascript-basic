@@ -13,3 +13,4 @@ function sumArray(numbers) {
 var num = [4, 8, 10, 16];
 var sum = sumArray(num);
 console.log("Total sum of array is: ", sum);
+
